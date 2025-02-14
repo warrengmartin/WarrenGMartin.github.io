@@ -1,31 +1,31 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Warren Martin",
+    "label": "Data Manager",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "Warre.martin@gmailcom",
+    "phone": "Friends only",
+    "url": "https://warrengmartin.github.io/al-folio/",
+    "summary": "Dreamer and believer in determination with an interesting background",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
+      "address": "SomeWhere",
+      "postalCode": "CA",
+      "city": "Over",
       "countryCode": "US",
-      "region": "California"
+      "region": "TheRainbow"
     },
     "profiles": [
       {
         "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "username": "Warrengmartin",
+        "url": "https://twitter.com/NotWorkingyet"
       }
     ]
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
+      "name": "RedBox",
+      "position": "Video Engineer",
       "url": "https://example.com",
       "startDate": "1933-01-01",
       "endDate": "1955-01-01",

@@ -9,7 +9,7 @@ profile:
   image: 1551457847892.jpeg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Mep>
+    <p>Me</p>
     <p></p>
     <p></p>
 

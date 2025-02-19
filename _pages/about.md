@@ -27,6 +27,6 @@ profile:
 #  limit: 3 # leave blank to include all the blog posts
 ---
 
-Just an average Blog.
+Just an average Blog about me.
 
 
